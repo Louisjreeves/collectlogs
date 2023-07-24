@@ -38,7 +38,7 @@ Perfmon Event Trace Guide
 Saturday, July 22, 2023
 8:53 AM
  
-Thank you for purchasing Collect logs powered by shacollector.bat!
+Thank you for using Collect logs powered by shacollector.bat!
  
  
 Basic Rules 

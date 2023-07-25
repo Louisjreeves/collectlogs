@@ -42,9 +42,5 @@ set-location $activedirectory
 
 
 
-$MyDownloads = (New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path
-$MyTemp = (Get-Item $mydownloads).FullName
-
-$MyUser = $env:USERNAME
 
   
